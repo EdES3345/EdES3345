@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @EdES3345
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning JS and python
+Hi, I’m @EdES3345
+I know JavaScript, TypeScript, React, SQLite and Express Server.
