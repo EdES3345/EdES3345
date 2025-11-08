@@ -1,2 +1,1 @@
-Hi, I’m @EdES3345
-I know JavaScript, TypeScript, React, SQLite and Express Server.
+Je maîtrise les langages HTML, CSS, JavaScript, TypeScript, React, SQLite et Express (serveur).
