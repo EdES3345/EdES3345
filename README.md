@@ -1,4 +1,4 @@
-<p>Je maîtrise les langages HTML, CSS, JavaScript, TypeScript, React, SQLite et Express (serveur): </p>
+<p>Je maîtrise les langages HTML, CSS, JavaScript, TypeScript, React, SQLite et Express (serveur) : </p>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-250px-HTML5_logo_and_wordmark.svg.png" alt="Logo d'HTML" width="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/langfr-250px-Official_CSS_Logo.svg.png" alt="Logo de CSS" width="100" />
